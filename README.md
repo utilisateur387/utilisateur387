@@ -1,10 +1,11 @@
 ## Hi, Im Miebi 👋
 #### Currently based in France
 
-After working as a graphic designer in New York, I joined Le Wagon coding bootcamp to become a web developer and extend my skills in the digital field.
 I'm an arts and culture enthusiast, especially when it comes to new technologies and immersive experiences. 
+After working as a graphic designer at Base Design in New York, I joined Le Wagon coding bootcamp to become a web developer and extend my skills in the digital field.
 
 - 🔭 I’m currently working on Curators
+- 🌱 I’m currently learning React
 - 📫 How to reach me: iyeyemim@gmail.com
 
 <!--
