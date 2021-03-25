@@ -1,4 +1,5 @@
-## Hi, I'm Miebi 👋
+# Hi, I'm Miebi 👋
+### Web Developer and Digital Designer
 #### Currently based in France
 
 I'm an arts and culture enthusiast, especially when it comes to new technologies and immersive experiences. 
