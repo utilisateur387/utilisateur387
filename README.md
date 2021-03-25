@@ -1,4 +1,4 @@
-## Hi, Im Miebi 👋
+## Hi, I'm Miebi 👋
 #### Currently based in France
 
 I'm an arts and culture enthusiast, especially when it comes to new technologies and immersive experiences. 
