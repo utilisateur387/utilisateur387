@@ -1,4 +1,4 @@
-### Hi, Im Miebi 👋
+## Hi, Im Miebi 👋
 #### Currently based in France
 
 After working as a graphic designer in New York, I joined Le Wagon coding bootcamp to become a web developer and extend my skills in the digital field.
