@@ -5,10 +5,11 @@
 I'm an arts and culture enthusiast, especially when it comes to new technologies and immersive experiences. 
 After working as a graphic designer at Base Design in New York, I joined Le Wagon coding bootcamp to become a web developer and extend my skills in the digital field.
 
-- 🔭 I’m currently working on updating my portfolio, curators.gallery and other freelance projects
+- 🔭 I’m currently updating my portfolio, working on curators.gallery and other freelance projects
 - 🌱 I’m currently learning React
 - 📫 How to reach me: iyeyemim@gmail.com
-- Find me on <a href="https://www.linkedin.com/in/utilisateur387/" target="_blank">LinkedIn</a>
+- 💻 Find me on <a href="https://www.linkedin.com/in/utilisateur387/" target="_blank">LinkedIn</a>
+- 🧘 Yoga practioner and 🎾 tennis player when I'm away from my laptop
 
 <!--
 **utilisateur387/utilisateur387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
