@@ -1,6 +1,5 @@
 # Hi, I'm Miebi 👋
-### Web Developer and Digital Designer
-#### Currently based in France
+#### Web Developer and Digital Designer based in France
 
 I'm an arts and culture enthusiast, especially when it comes to new technologies and immersive experiences. 
 After working as a graphic designer at Base Design in New York, I joined Le Wagon coding bootcamp to become a web developer and extend my skills in the digital field.
