@@ -9,7 +9,7 @@ After working as a graphic designer at Base Design in New York, I joined Le Wago
 - 📫 How to reach me: iyeyemim@gmail.com
 - 💻 Find me on <a href="https://www.linkedin.com/in/utilisateur387/" target="_blank">LinkedIn</a>
 - 📖 Currently reading _Man's Search for Meaning_ by Victor Frankl
-- Away from my laptop: 🧘 Yoga practioner and 🎾 tennis player
+- 🌞 Away from my laptop: 🧘 Yoga practioner and 🎾 tennis player
 
 <!--
 **utilisateur387/utilisateur387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
