@@ -8,6 +8,7 @@ After working as a graphic designer at Base Design in New York, I joined Le Wago
 - 🌱 I’m currently learning React
 - 📫 How to reach me: iyeyemim@gmail.com
 - 💻 Find me on <a href="https://www.linkedin.com/in/utilisateur387/" target="_blank">LinkedIn</a>
+- 📖 Currently reading _Man's Search for Meaning_ by Victor Frankl
 - Away from my laptop: 🧘 Yoga practioner and 🎾 tennis player
 
 <!--
