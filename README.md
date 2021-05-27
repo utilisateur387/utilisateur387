@@ -1,5 +1,5 @@
 # Hi, I'm Miebi 👋
-#### Web Developer and Digital Designer based in France
+#### Freelance developer and digital designer
 
 I'm a web developer and digital designer with a great passion for digital arts and immersive experiences. After working as a graphic designer in New York, I enrolled in Le Wagon's fullstack coding bootcamp in France which has provided me with a new sense of technical and creative freedom. I'm currently working on web development projects, all the while deepening my knowledge of technologies through self-learning. Feel free to reach out for a chat, a project, or anything else.
 
