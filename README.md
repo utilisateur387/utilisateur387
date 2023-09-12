@@ -1,13 +1,13 @@
 # Hi, I'm Miebi 👋
 #### Freelance developer and digital designer
 
-I'm a web developer and digital designer with a great passion for digital arts and immersive experiences. After working as a graphic designer in New York, I enrolled in Le Wagon's fullstack coding bootcamp in France which has provided me with a new sense of technical and creative freedom. I'm currently working on web development projects, all the while deepening my knowledge of technologies through self-learning. Feel free to reach out for a chat, a project, or anything else.
+I'm a web developer and digital designer with a great passion for digital arts and immersive experiences. After working as a graphic designer at Base Design in New York, I enrolled in Le Wagon's fullstack coding bootcamp in France. Afterwards, I landed a job as a web developer working mainly with PHP and ReactJS, all the while deepening my knowledge of technologies through self-learning. I'm currently working on freelance projects. Feel free to reach out for a chat, a project, or anything else.
 
-- 🔭 I’m currently a developer at Petit-Fernand working with React and PHP on Magento
+- 🔭 I’m currently freelance web designer and developer
 - 📫 How to reach me: iyeyemim@gmail.com
 - 💻 Find me on <a href="https://www.linkedin.com/in/utilisateur387/" target="_blank">LinkedIn</a>
 - 📖 Currently reading _Man's Search for Meaning_ by Victor Frankl
-- 🌞 Away from my laptop: 🧘 yoga practioner, 🎾 tennis player and 🏃🏽‍♀️ runner
+- 🌞 Away from my laptop: 🧘 yoga practioner, 🎾 tennis player and 🏃🏽‍♀️ hiker
 
 <!--
 **utilisateur387/utilisateur387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
