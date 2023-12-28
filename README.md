@@ -1,9 +1,9 @@
 # Hi, I'm Miebi 👋
 #### Freelance developer and digital designer
 
-I'm a web developer and digital designer with a great passion for digital arts and immersive experiences. After working as a graphic designer at Base Design in New York, I enrolled in Le Wagon's fullstack coding bootcamp in France. Afterwards, I landed a job as a web developer working mainly with PHP and ReactJS, all the while deepening my knowledge of technologies through self-learning. I'm currently working on freelance projects. Feel free to reach out for a chat, a project, or anything else.
+I'm a web developer and digital designer deeply passionate about digital arts and crafting immersive experiences. Originally from France, I worked as a graphic designer in New York before returning home to complete Le Wagon's full-stack coding bootcamp in Nantes. After gaining experience as a fullstack developer in a company, I now freelance, blending my skills in design and development to craft captivating digital experiences.
 
-- 🔭 I’m currently freelance web designer and developer
+- 🔭 I’m currently freelancing on web projects and learning React Native on the side
 - 📫 How to reach me: iyeyemim@gmail.com
 - 💻 Find me on <a href="https://www.linkedin.com/in/utilisateur387/" target="_blank">LinkedIn</a>
 - 📖 Currently reading _Man's Search for Meaning_ by Victor Frankl
